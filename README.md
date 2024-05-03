@@ -1,7 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nijat+Soltanov!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Tharlan+Shiraliyev!;" />
 </h1>
-<h3 align="center">.NET Developer from Azerbaijan</h3>
+<h3 align="center">Mern stack developer from Azerbaijan</h3>
 💫 About Me:
 🌱 I’m currently learning ASP.NET Core, React<br><br>
 📫 How to reach me nicatsoltanli03@gmail.com
